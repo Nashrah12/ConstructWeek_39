@@ -6,6 +6,7 @@ This project involved comprehensive manual testing of the MovieGate website. The
 ### 🔍 Project Type
 
 Manual Testing
+## 📂 Project Structure
 moviegate-testing/
 ├─ reports/
 │  ├─ RTM Report
@@ -15,6 +16,19 @@ moviegate-testing/
    ├─ Test Plan
    ├─ Test Scenarios
    └─ Test Cases
+   
+## 📁 Folders & Files Description
+
+### 📂 reports/
+Contains all the test execution reports:
+- 📄 **RTM Report** - Requirements Traceability Matrix mapping requirements to test cases.
+- 📄 **Test Summary** - Overview of the testing process, execution results, and key insights.
+- 📄 **Bug Report** - List of discovered defects, severity levels, and resolution status.
+### 📂 documentation/
+Includes all test planning and documentation:
+- 📄 **Test Plan** - Defines test objectives, scope, strategies, and resources.
+- 📄 **Test Scenarios** - High-level scenarios covering different functionalities.
+- 📄 **Test Cases** - Detailed test cases with steps, expected outcomes, and actual results.
  ###  ⭐ Features
 
 - Conducted exploratory testing on key features such as user registration, login, movie search, and watchlist management.
